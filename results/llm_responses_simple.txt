@@ -1,0 +1,25 @@
+✅ LLM Responses (Based on Dataset)
+1️⃣ How many games did the team play this season?
+Each player has GP = 32
+
+✅ Answer: The team played 32 games in the season.
+
+2️⃣ Who scored the most points this season?
+Mintz, Judah – 602 points
+
+✅ Answer: Judah Mintz scored the most points with 602.
+
+3️⃣ Which player had the highest average points per game?
+Mintz, Judah – AVG = 18.8
+
+✅ Answer: Judah Mintz had the highest average points per game with 18.8 PPG.
+
+4️⃣ Who was the best 3-point shooter by percentage?
+Ruffin, Niko – 3PT% = 0.500
+
+✅ Answer: Niko Ruffin had the highest 3-point shooting percentage at 50%.
+
+5️⃣ Which player contributed the most rebounds?
+Brown, Maliq – Rebounds = 230
+
+✅ Answer: Maliq Brown contributed the most rebounds with 230.

@@ -1,0 +1,8 @@
+Question,LLM Response,Correct?,Notes
+Who scored the most points?,Judah Mintz – 602,Yes,Matches dataset
+Who was the best 3PT shooter?,Niko Ruffin – 50%,Yes,Correct
+Who contributed the most rebounds?,Maliq Brown – 230,Yes,Correct
+Who was the most efficient scorer?,Maliq Brown,Yes,Based on FG% and scoring
+Best all-around contributor?,Judah Mintz,Yes,Reasonable based on stats
+Should coach focus on offense or defense?,"Improve both, esp. defense",Partial,"Opinion, partially valid"
+Biggest game-changer?,Maliq Brown,Yes,Supported by stats

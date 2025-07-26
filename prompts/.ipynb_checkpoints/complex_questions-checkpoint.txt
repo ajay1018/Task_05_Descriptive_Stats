@@ -1,0 +1,6 @@
+Using the same dataset, answer the following:
+
+1. Who was the most efficient scorer (high FG% and decent scoring)?
+2. Which player could be considered the best all-around contributor based on points, rebounds, and assists?
+3. Should the coach focus on offense or defense to improve next season, based on these stats?
+4. Which player could be the biggest game-changer for next season and why?

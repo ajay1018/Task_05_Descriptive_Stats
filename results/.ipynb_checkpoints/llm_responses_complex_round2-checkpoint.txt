@@ -1,0 +1,26 @@
+1. Answer: insufficient data
+Reasoning: The dataset does not include minutes played, so points-per-minute cannot be computed.
+
+2. Answer: insufficient data
+Reasoning: While FT% is present, the dataset does not include free-throw attempts (FTA), so we cannot enforce the “≥ 50 attempts” condition.
+
+3. Answer: Mintz, Judah — 26.47 per game
+Reasoning: (PTS+Rebounds+Assists)/GP = (602+103+142)/32 = 847/32 = 26.47, highest among all players.
+
+4. Answer: Brown, Maliq — 7.19 rebounds per game
+Reasoning: Rebounds/GP = 230/32 = 7.19, which is the top value (also shown in the dataset’s Rebounds_per_game).
+
+5. Answer: Mintz, Judah — Impact 918
+Reasoning: The dataset includes Impact = PTS+Rebounds+Assists+Steals+Blocks; Mintz leads with 918.
+
+6. Answer: Mintz, Judah; Brown, Maliq; Starling, J.J.
+Reasoning: These three balance high overall contribution (Impact: 918, 694, 622 respectively) with strong shooting efficiency (FG%: 0.438, 0.698, 0.458). Brown’s elite FG% and Mintz’s top Impact anchor the group.
+
+7. Answer: Brown, Maliq — 2.22 steals per game
+Reasoning: Excluding GP<10, Steals/GP = 71/32 = 2.22, which is the highest (Mintz is next at 67/32 ≈ 2.09).
+
+8. Answer: Hima, Mounir — gap 0.667
+Reasoning: Absolute difference |FG%−3PT%| = |0.667−0.000| = 0.667, the largest in the dataset (next highest: McLeod 0.594).
+
+9. Answer: Mintz, Judah — +12.41 PPG above team average
+Reasoning: Team average PPG (mean of AVG) ≈ 6.39; Mintz’s AVG = 18.8 → 18.8 − 6.39 = 12.41, the largest positive difference.

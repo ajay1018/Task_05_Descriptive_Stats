@@ -1,0 +1,39 @@
+You are a basketball data analyst. Use ONLY the dataset provided below to answer.  
+Rules:
+- If multiple players tie for a metric, list all of them in the answer.
+- Do not guess. If a calculation cannot be made exactly, say “insufficient data.”
+- GP is the first number before the hyphen in GP-GS.
+- When calculating averages from totals, round to 2 decimal places.
+- Show your reasoning briefly in 1-2 sentences per answer.
+
+DATASET:
+Player, GP-GS, PTS, AVG, Rebounds, Assists, Steals, Blocks, FG%, 3PT%, FT%
+Mintz, Judah, 32-31, 602, 18.8, 103, 142, 67, 4, 0.438, 0.282, 0.765
+Starling, J.J., 32-32, 426, 13.3, 103, 60, 27, 6, 0.458, 0.324, 0.714
+Bell, Chris, 32-32, 384, 12.0, 75, 21, 18, 22, 0.434, 0.420, 0.842
+Copeland, Quadir, 32-1, 307, 9.6, 148, 89, 47, 6, 0.478, 0.250, 0.683
+Brown, Maliq, 32-18, 305, 9.5, 230, 59, 71, 29, 0.698, 0.389, 0.721
+Hima, Mounir, 21-0, 84, 4.0, 77, 4, 4, 21, 0.556, 0.0, 0.583
+Carey, Justin, 4-0, 4, 1.0, 3, 1, 0, 0, 0.5, 0.0, 0.0
+McLeod, Naheem, 14-14, 83, 5.9, 89, 6, 5, 26, 0.596, 0.0, 0.5
+Williams, Kyle Cuffe, 7-0, 12, 1.7, 4, 1, 1, 0, 0.5, 0.0, 0.5
+Taylor, Benny, 6-0, 6, 1.0, 2, 0, 0, 0, 0.333, 0.0, 0.0
+Ruffin, Niko, 1-0, 3, 3.0, 0, 0, 0, 0, 1.0, 0.5, 1.0
+Freeman, Donnie, 1-0, 2, 2.0, 1, 0, 0, 0, 1.0, 0.0, 0.0
+Reid, Peter, 1-0, 0, 0.0, 0, 0, 0, 0, 0.0, 0.0, 0.0
+
+QUESTIONS:
+1) Which player contributed the most total points per minute played?  
+2) Who has the highest free throw accuracy among players with at least 50 free throw attempts?  
+3) Which player has the highest total combined (Points + Rebounds + Assists) per game?  
+4) Which player is the most efficient rebounder (total rebounds divided by games played)?  
+5) If we define "impact score" as (Points + Rebounds + Assists + Steals + Blocks), who leads?  
+6) Which 3 players would you recommend as starters based on overall contribution (impact score) and shooting efficiency (FG%)?  
+7) If we remove players with fewer than 10 games played, who has the highest steals per game ratio?  
+8) Identify the player with the largest gap between FG% and 3PT% (absolute value difference).  
+9) Which player has the highest points-per-game above the team average points-per-game?  
+
+Format:
+- Give each answer as “Answer: <content>”
+- Then give 1-2 sentences of reasoning.
+- Use ONLY the dataset above, no outside data.
